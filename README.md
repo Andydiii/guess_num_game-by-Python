@@ -1,6 +1,6 @@
 # guess_num_game-by-Python
 
-- In this game, you can just run it and choose whether you want to guess or let the computer guess.
+- This is a game where you can guess a random number given by the computer, conversly, you also can let the computer to guess what number that you think of. you can just run it and choose whether you want to guess or let the computer guess.
 
 Steps:
 - run it
